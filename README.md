@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @n83b
-- 👀 I’m interested in Worpress, Gaming and Electronic music
-- 🌱 I’m currently learning Wordpress Block Editor, ASM, A.I. Algorithms C, Linux
+- 👀 I’m interested in Worpress, PHP and Javascript
+- 🌱 I’m currently learning Wordpress Block Editor
 - 💞️ I’m looking to collaborate on Wordpress plugins
 
 <!---
